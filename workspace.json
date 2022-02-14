@@ -2,6 +2,7 @@
   "version": 2,
   "projects": {
     "front": "apps/front",
-    "front-e2e": "apps/front-e2e"
+    "front-e2e": "apps/front-e2e",
+    "ui": "libs/ui"
   }
 }
